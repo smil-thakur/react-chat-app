@@ -1,0 +1,13 @@
+.messages{
+    border: solid;
+    height: 68vh;
+    overflow: scroll;
+    border-radius: 20px;
+    min-width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+    .messages{
+        min-width: 100%;
+    }
+  }

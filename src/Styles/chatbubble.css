@@ -1,0 +1,6 @@
+.chatBubble{
+    width: fit-content;
+    padding: 8px;
+    border-radius: 10px;
+    min-width: 100px;
+}

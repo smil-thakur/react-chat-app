@@ -1,0 +1,9 @@
+
+.messageContianer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    overflow: scroll;
+    width: 100%;
+}
